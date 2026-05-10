@@ -1,8 +1,10 @@
 # JQ AI SYSTEMS Internal Systems
 
-Case studies for systems built to run my own studio operations.
+Sanitized case studies for systems built to run my own studio operations.
 
-These are not source-code releases. They are public, client-readable breakdowns of the problem, workflow, stack, and outcome behind each system. No credentials, private prompts, databases, API keys, deployment files, logs, or client-sensitive material are included.
+This is the main public proof repo for JQ AI SYSTEMS. It shows what has been built, what problem each system solves, and what kind of workflow can be adapted for a client.
+
+These are not source-code releases. They are public, client-readable breakdowns of the problem, workflow, stack, outcome, and safety boundary behind each system. No credentials, private prompts, databases, API keys, deployment files, logs, source code, prospect lists, or client-sensitive material are included.
 
 [![Website](https://img.shields.io/badge/Website-ai.joaoqueiros.com-111827?style=for-the-badge)](https://www.ai.joaoqueiros.com)
 [![Systems](https://img.shields.io/badge/Systems-Case_Studies-2563eb?style=for-the-badge)](https://www.ai.joaoqueiros.com/systems)
@@ -20,6 +22,13 @@ These are not source-code releases. They are public, client-readable breakdowns 
 | [Social Media Content Calendar](case-studies/social-media-content-calendar.md) | Builds a month of content from a single brand brief. | [View](https://www.ai.joaoqueiros.com/systems/content-calendar) |
 | [Client Portal Automation](case-studies/client-portal-automation.md) | Automates onboarding, status updates, and handoff summaries. | [View](https://www.ai.joaoqueiros.com/systems/client-portal) |
 
+## Recommended Reading Order
+
+1. [Tidesstunes Social Pipeline](case-studies/tidesstunes-social-pipeline.md)
+2. [Etsy to Pinterest Pipeline](case-studies/etsy-to-pinterest-pipeline.md)
+3. [OutreachIQ](case-studies/outreach-iq.md)
+4. [Adobe Stock Uploader](case-studies/adobe-stock-uploader.md)
+
 ## What Is Not Included
 
 - Real source code or deployment scripts.
@@ -34,3 +43,5 @@ These are not source-code releases. They are public, client-readable breakdowns 
 - Deciding whether a similar automation would fit your business.
 
 Start here: [production AI systems](https://www.ai.joaoqueiros.com/systems)
+
+Want a system like this? Start here: [ai.joaoqueiros.com/contact](https://www.ai.joaoqueiros.com/contact)
