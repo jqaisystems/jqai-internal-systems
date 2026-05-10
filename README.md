@@ -4,7 +4,9 @@ Case studies for systems built to run my own studio operations.
 
 These are not source-code releases. They are public, client-readable breakdowns of the problem, workflow, stack, and outcome behind each system. No credentials, private prompts, databases, API keys, deployment files, logs, or client-sensitive material are included.
 
-Website: [ai.joaoqueiros.com](https://www.ai.joaoqueiros.com)
+[![Website](https://img.shields.io/badge/Website-ai.joaoqueiros.com-111827?style=for-the-badge)](https://www.ai.joaoqueiros.com)
+[![Systems](https://img.shields.io/badge/Systems-Case_Studies-2563eb?style=for-the-badge)](https://www.ai.joaoqueiros.com/systems)
+[![Private Source](https://img.shields.io/badge/Source-Private_by_Design-059669?style=for-the-badge)](https://github.com/jqaisystems/jqai-internal-systems)
 
 ## Case Studies
 
