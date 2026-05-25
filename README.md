@@ -18,6 +18,7 @@ These are not source-code releases. They are public, client-readable breakdowns 
 | [Etsy to Pinterest Pipeline](case-studies/etsy-to-pinterest-pipeline.md) | Turns Etsy listings into Pinterest-ready pins with SEO metadata and a review queue. | [View](https://www.ai.joaoqueiros.com/systems/etsy-to-pinterest) |
 | [OutreachIQ](case-studies/outreach-iq.md) | Finds, enriches, scores, and drafts outreach for qualified prospects. | [View](https://www.ai.joaoqueiros.com/systems/outreach-iq) |
 | [Adobe Stock Uploader](case-studies/adobe-stock-uploader.md) | Generates upload-ready stock metadata for image batches. | [View](https://www.ai.joaoqueiros.com/systems/adobe-stock-uploader) |
+| [Client Intake Automation](case-studies/client-intake-automation.md) | Qualifies new inquiries, summarizes fit, and prepares first-response drafts for review. | Planned |
 | [AI Brief Generator](case-studies/ai-brief-generator.md) | Turns a short intake into a structured creative brief. | [View](https://www.ai.joaoqueiros.com/systems/ai-brief-generator) |
 | [Social Media Content Calendar](case-studies/social-media-content-calendar.md) | Builds a month of content from a single brand brief. | [View](https://www.ai.joaoqueiros.com/systems/content-calendar) |
 | [Client Portal Automation](case-studies/client-portal-automation.md) | Automates onboarding, status updates, and handoff summaries. | [View](https://www.ai.joaoqueiros.com/systems/client-portal) |
