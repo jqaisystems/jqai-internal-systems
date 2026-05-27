@@ -2,7 +2,7 @@
 
 Case study only. No source code, credentials, prompts, databases, logs, saved private links, account data, or API keys are included.
 
-Public page status: planned.
+Public page: [AI News Curator](https://www.ai.joaoqueiros.com/systems/ai-news-curator).
 
 ## Problem
 
@@ -26,7 +26,7 @@ AI News Curator collects and organizes saved links and source signals into a pri
 
 The system turns scattered reading into a repeatable signal workflow. Instead of losing links across tabs and messages, the operator can review a structured archive and daily briefing while keeping private notes and saved links out of public channels by default.
 
-Public website status: planned.
+Public website: [AI News Curator](https://www.ai.joaoqueiros.com/systems/ai-news-curator).
 
 ## What Can Be Adapted For Clients
 
