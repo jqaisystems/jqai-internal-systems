@@ -19,7 +19,7 @@ These are not source-code releases. They are public, client-readable breakdowns 
 | [OutreachIQ](case-studies/outreach-iq.md) | Finds, enriches, scores, and drafts outreach for qualified prospects. | [View](https://www.ai.joaoqueiros.com/systems/outreach-iq) |
 | [Adobe Stock Uploader](case-studies/adobe-stock-uploader.md) | Generates upload-ready stock metadata for image batches. | [View](https://www.ai.joaoqueiros.com/systems/adobe-stock-uploader) |
 | [Client Intake Automation](case-studies/client-intake-automation.md) | Qualifies new inquiries, summarizes fit, and prepares first-response drafts for review. | Planned |
-| [AI News Curator](case-studies/ai-news-curator.md) | Collects AI, coding, design, and automation signals into a reviewable briefing workflow. | [View](https://www.ai.joaoqueiros.com/systems/ai-news-curator) |
+| [AI News Curator](case-studies/ai-news-curator.md) | Collects AI, coding, design, and automation signals into a reviewable briefing workflow. | [View](https://www.ai.joaoqueiros.com/systems/ai-news-curator) / [Demo](https://www.ai.joaoqueiros.com/demo/ai-news-curator.html) |
 | [AI Brief Generator](case-studies/ai-brief-generator.md) | Turns a short intake into a structured creative brief. | [View](https://www.ai.joaoqueiros.com/systems/ai-brief-generator) |
 | [Social Media Content Calendar](case-studies/social-media-content-calendar.md) | Builds a month of content from a single brand brief. | [View](https://www.ai.joaoqueiros.com/systems/content-calendar) |
 | [Client Portal Automation](case-studies/client-portal-automation.md) | Automates onboarding, status updates, and handoff summaries. | [View](https://www.ai.joaoqueiros.com/systems/client-portal) |
