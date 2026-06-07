@@ -1,8 +1,10 @@
 # Client Intake Automation
 
-Case study only. No source code, credentials, prompts, form submissions, lead lists, logs, or private client data are included.
+Case study only. No implementation source, access secrets, raw system instructions, form submissions, lead lists, logs, or sensitive business data are included.
 
-Public page status: planned.
+Public page status: public blueprint available; website page planned.
+
+Planning assets: [Client Intake Automation Blueprint](../blueprints/client-intake-automation/)
 
 ## Problem
 
@@ -11,6 +13,18 @@ Small studios and consultants often receive new inquiries through scattered form
 ## What The System Does
 
 The system captures a structured inquiry, summarizes the request, scores fit, flags missing context, and prepares a first response for human review. Nothing is sent automatically without approval.
+
+## Public Blueprint
+
+The public-safe blueprint includes:
+
+- [Scenario](../blueprints/client-intake-automation/scenario.md)
+- [Intake form fields](../blueprints/client-intake-automation/intake-form-fields.md)
+- [Automation flow](../blueprints/client-intake-automation/automation-flow.md)
+- [Lead scoring rubric](../blueprints/client-intake-automation/lead-scoring-rubric.md)
+- [Fake lead dataset](../blueprints/client-intake-automation/fake-lead-dataset.md)
+- [First response templates](../blueprints/client-intake-automation/first-response-templates.md)
+- [Review queue spec](../blueprints/client-intake-automation/review-queue-spec.md)
 
 ## Workflow
 
@@ -26,7 +40,7 @@ The system captures a structured inquiry, summarizes the request, scores fit, fl
 
 The goal is to make first-response handling faster, more consistent, and easier to review while keeping the business owner in control of what gets sent.
 
-Public website status: planned.
+Current public artifact: planning blueprint. Website page planned.
 
 ## What Can Be Adapted For Clients
 
@@ -38,4 +52,4 @@ Public website status: planned.
 
 ## Safety Boundary
 
-This public case study excludes source code, private prompts, real lead records, email addresses, phone numbers, form exports, CRM data, email credentials, delivery logs, and any private client or prospect communication.
+This public case study excludes implementation source, raw system instructions, real lead records, email addresses, phone numbers, form exports, CRM records, delivery settings, delivery logs, and any sensitive prospect communication.
