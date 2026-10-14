@@ -1,57 +1,62 @@
-# JQ AI SYSTEMS Internal Systems
+# JQ AI SYSTEMS / Case Studies
 
-Sanitized case studies for systems built to run my own studio operations.
+How I turn repetitive studio work into useful AI systems: the problem, the workflow, the review points and what can be adapted.
 
-This is the main public proof repo for JQ AI SYSTEMS. It shows what has been built, what problem each system solves, and what kind of workflow can be adapted for a client.
+[Explore the demos](https://github.com/jqaisystems/jqai-public-demos) · [Full systems library](https://www.ai.joaoqueiros.com/systems) · [Discuss a project](https://www.ai.joaoqueiros.com/contact)
 
-These are not source-code releases. They are public, client-readable breakdowns of the problem, workflow, stack, outcome, and safety boundary behind each system. No credentials, private prompts, databases, API keys, deployment files, logs, source code, prospect lists, or client-sensitive material are included.
+These are public breakdowns of internal systems and planning examples. Each page explains its status and boundaries.
 
-[![Website](https://img.shields.io/badge/Website-ai.joaoqueiros.com-111827?style=for-the-badge)](https://www.ai.joaoqueiros.com)
-[![Systems](https://img.shields.io/badge/Systems-Case_Studies-2563eb?style=for-the-badge)](https://www.ai.joaoqueiros.com/systems)
-[![Private Source](https://img.shields.io/badge/Source-Private_by_Design-059669?style=for-the-badge)](https://github.com/jqaisystems/jqai-internal-systems)
+## Selected systems
 
-## Case Studies
+### Etsy to Pinterest
 
-| System | What It Does | Public Page |
-|---|---|---|
-| [Tidesstunes Social Pipeline](case-studies/tidesstunes-social-pipeline.md) | Converts long music videos into vertical clips and queues platform-specific posts. | [View](https://www.ai.joaoqueiros.com/systems/tidesstunes-social-pipeline) |
-| [Etsy to Pinterest Pipeline](case-studies/etsy-to-pinterest-pipeline.md) | Turns Etsy listings into Pinterest-ready pins with SEO metadata and a review queue. | [View](https://www.ai.joaoqueiros.com/systems/etsy-to-pinterest) |
-| [OutreachIQ](case-studies/outreach-iq.md) | Finds, enriches, scores, and drafts outreach for qualified prospects. | [View](https://www.ai.joaoqueiros.com/systems/outreach-iq) |
-| [Adobe Stock Uploader](case-studies/adobe-stock-uploader.md) | Generates upload-ready stock metadata for image batches. | [View](https://www.ai.joaoqueiros.com/systems/adobe-stock-uploader) |
-| [Client Intake Automation](case-studies/client-intake-automation.md) | Qualifies new inquiries, summarizes fit, and prepares first-response drafts for review. | [Blueprint](blueprints/client-intake-automation/) |
-| [AI News Curator](case-studies/ai-news-curator.md) | Collects AI, coding, design, and automation signals into a reviewable briefing workflow. | [View](https://www.ai.joaoqueiros.com/systems/ai-news-curator) / [Demo](https://www.ai.joaoqueiros.com/demo/ai-news-curator.html) |
-| [AI Brief Generator](case-studies/ai-brief-generator.md) | Turns a short intake into a structured creative brief. | [View](https://www.ai.joaoqueiros.com/systems/ai-brief-generator) |
-| [Social Media Content Calendar](case-studies/social-media-content-calendar.md) | Builds a month of content from a single brand brief. | [View](https://www.ai.joaoqueiros.com/systems/content-calendar) |
-| [Client Portal Automation](case-studies/client-portal-automation.md) | Automates onboarding, status updates, and handoff summaries. | [View](https://www.ai.joaoqueiros.com/systems/client-portal) |
+Prepare image pins for scheduling and video pins for a controlled manual queue.
 
-## Recommended Reading Order
+[![Etsy to Pinterest workflow-film preview](assets/showcase/etsy-to-pinterest-card.png)](case-studies/etsy-to-pinterest-pipeline.md)
 
-1. [Tidesstunes Social Pipeline](case-studies/tidesstunes-social-pipeline.md)
-2. [Etsy to Pinterest Pipeline](case-studies/etsy-to-pinterest-pipeline.md)
-3. [OutreachIQ](case-studies/outreach-iq.md)
-4. [Adobe Stock Uploader](case-studies/adobe-stock-uploader.md)
-5. [AI News Curator](case-studies/ai-news-curator.md)
-6. [Client Intake Automation](case-studies/client-intake-automation.md) for a planning blueprint example.
+[Read the breakdown](case-studies/etsy-to-pinterest-pipeline.md) · [Website case study](https://www.ai.joaoqueiros.com/systems/etsy-to-pinterest) · [Watch the film](https://www.ai.joaoqueiros.com/media/systems/films/etsy-to-pinterest.mp4)
 
-## Planning Blueprints
+### Adobe Stock Uploader
 
-| Blueprint | What it includes |
+Visually review assets, prepare ordered metadata, then validate the CSV before submission.
+
+[![Adobe Stock Uploader workflow-film preview](assets/showcase/adobe-stock-uploader-card.png)](case-studies/adobe-stock-uploader.md)
+
+[Read the breakdown](case-studies/adobe-stock-uploader.md) · [Website case study](https://www.ai.joaoqueiros.com/systems/adobe-stock-uploader) · [Watch the film](https://www.ai.joaoqueiros.com/media/systems/films/adobe-stock-uploader.mp4)
+
+### SEO Engine
+
+Run indexing checks, guard sitemaps and make search decisions against dated checkpoints.
+
+[![SEO Engine workflow-film preview](assets/showcase/seo-engine-card.png)](case-studies/seo-engine.md)
+
+[Read the breakdown](case-studies/seo-engine.md) · [Website case study](https://www.ai.joaoqueiros.com/systems/seo-engine) · [Watch the film](https://www.ai.joaoqueiros.com/media/systems/films/seo-engine.mp4)
+
+
+## All case studies
+
+| System | Workflow |
 |---|---|
-| [Client Intake Automation](blueprints/client-intake-automation/) | Public-safe scenario, intake fields, automation flow, scoring rubric, fake demo leads, response templates, and review queue spec. |
+| [Etsy to Pinterest](case-studies/etsy-to-pinterest-pipeline.md) | Image-pin scheduling and a separate video-pin queue |
+| [Adobe Stock Uploader](case-studies/adobe-stock-uploader.md) | Visual batch review and metadata validation |
+| [SEO Engine](case-studies/seo-engine.md) | Indexing, sitemap checks and dated checkpoints |
+| [Tidesstunes](case-studies/tidesstunes-social-pipeline.md) | Music videos into vertical clips and queued posts |
+| [OutreachIQ](case-studies/outreach-iq.md) | Lead research, scoring, drafting and review |
+| [AI News Curator](case-studies/ai-news-curator.md) | Sources into briefings, archives and review queues |
+| [AI Brief Generator](case-studies/ai-brief-generator.md) | Intake into a structured creative brief |
+| [Content Calendar](case-studies/social-media-content-calendar.md) | A brand brief into a content plan |
+| [Client Portal](case-studies/client-portal-automation.md) | Onboarding, updates and handoff |
+| [Client Intake](case-studies/client-intake-automation.md) | Planning blueprint for inquiry qualification |
 
-## What Is Not Included
+## Planning example
 
-- Real source code or deployment scripts.
-- Access secrets, delivery settings, or environment files.
-- Raw prompts, private client memory, databases, CSV exports, logs, or contact data.
-- Client-delivered systems such as Camille AI OS, AGC LinkedIn Reporting Tool, or the Sector Research Briefing.
+The [Client Intake blueprint](blueprints/client-intake-automation/) contains fictional scenarios, fields, a scoring rubric, response templates and a review-queue specification.
 
-## Use This Repo For
+<details>
+<summary>What the public case studies contain</summary>
 
-- Understanding the kinds of systems JQ AI SYSTEMS builds.
-- Seeing how internal studio workflows become reusable client patterns.
-- Deciding whether a similar automation would fit your business.
+Problems, workflow explanations, review points and publicly documented outcomes. Private source, prompts, credentials, client data, logs and deployment configuration are excluded. Film previews are illustrative explanations, not screenshots of a private live system.
 
-Start here: [production AI systems](https://www.ai.joaoqueiros.com/systems)
+</details>
 
-Want a system like this? Start here: [ai.joaoqueiros.com/contact](https://www.ai.joaoqueiros.com/contact)
+[Discuss a similar system](https://www.ai.joaoqueiros.com/contact) · [JQ AI SYSTEMS](https://www.ai.joaoqueiros.com)

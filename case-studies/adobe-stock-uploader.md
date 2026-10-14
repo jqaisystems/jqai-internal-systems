@@ -1,40 +1,32 @@
 # Adobe Stock Uploader
 
-Case study only. No source code, credentials, prompts, image batches, logs, or API keys are included.
+[Website case study](https://www.ai.joaoqueiros.com/systems/adobe-stock-uploader) · [Guided demo](https://www.ai.joaoqueiros.com/demo/adobe-stock-uploader.html) · [System film](https://www.ai.joaoqueiros.com/media/systems/films/adobe-stock-uploader.mp4)
 
-Public page: [Adobe Stock Uploader](https://www.ai.joaoqueiros.com/systems/adobe-stock-uploader)  
-Public demo: [guided walkthrough](https://www.ai.joaoqueiros.com/demo/adobe-stock-uploader.html)
+Status: internal image-metadata workflow. Updated 14 October 2026.
 
 ## Problem
 
-Large image portfolios need titles, descriptions, keywords, and category choices for every upload. Manual metadata writing is slow, inconsistent, and easy to postpone when the batch is large.
-
-## What The System Does
-
-The system reads image batches, generates stock-platform metadata, validates output against submission rules, and exports a ready-to-review CSV for upload preparation.
+Batch metadata needs more than plausible text. Keyword ordering, duplicates, category values, filename consistency and submission risks all need checking before upload.
 
 ## Workflow
 
-1. Select an image batch for processing.
-2. Analyze each image and infer useful stock metadata.
-3. Generate SEO-ready titles, descriptions, and keyword sets.
-4. Validate the metadata against submission constraints.
-5. Export a review-ready CSV.
-6. Keep the final submission under human control.
+1. Read each image visually rather than infer its content from a filename.
+2. Draft a buyer-search title and 46 ordered, unique lowercase keywords for this workflow.
+3. Assign an asset-level category ID and normalize the exported filename.
+4. Validate title length, keyword count and duplicates, category values and unique filenames.
+5. Flag risky terms and near-duplicate assets before exporting the CSV.
+6. Leave final asset review and submission choices to the operator.
 
-## Outcome
+The keyword count describes this implementation; it is not a universal claim about platform requirements.
 
-Batch metadata work moves from hours of repetitive typing to a short review process with better consistency across titles, descriptions, and keyword sets.
+## What changes
 
-Public website outcome: 2+ hours of manual tagging per batch reduced to under 5 minutes.
+Metadata preparation becomes a reviewable batch process with explicit checks before submission. The public example demonstrates the fields and validation stages. It does not guarantee upload acceptance or a processing time.
 
-## What Can Be Adapted For Clients
+## Adaptable patterns
 
-- Asset metadata generation for image, video, or document libraries.
-- Batch tagging workflows for creative teams.
-- Review-first content preparation before upload.
-- Structured exports for platforms that still require manual or semi-manual submission.
+Visual asset review, structured metadata, deterministic export checks and human review before external submission.
 
-## Safety Boundary
+## Evidence and boundaries
 
-This public case study excludes source code, private prompts, image batches, filenames, account details, upload credentials, export data, logs, and any production submission workflow.
+The linked case study and guided demo describe the public workflow. Private image batches, account details, raw outputs, credentials, prompts and source stay private.

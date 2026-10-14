@@ -1,40 +1,33 @@
-# Etsy To Pinterest Pipeline
+# Etsy to Pinterest Pipeline
 
-Case study only. No source code, credentials, prompts, databases, logs, or API keys are included.
+[Website case study](https://www.ai.joaoqueiros.com/systems/etsy-to-pinterest) · [Guided demo](https://www.ai.joaoqueiros.com/demo/etsy-to-pinterest.html) · [System film](https://www.ai.joaoqueiros.com/media/systems/films/etsy-to-pinterest.mp4)
 
-Public page: [Etsy to Pinterest Pipeline](https://www.ai.joaoqueiros.com/systems/etsy-to-pinterest)  
-Public demo: [guided walkthrough](https://www.ai.joaoqueiros.com/demo/etsy-to-pinterest.html)
+Status: internal system, described using public workflow evidence. Updated 14 October 2026.
 
 ## Problem
 
-Every new Etsy listing needs a Pinterest-ready image, title, description, alt text, board choice, and posting time. The work is small but constant, and skipping it weakens product discovery.
-
-## What The System Does
-
-The system imports listing context, prepares pin assets, detects product niche, drafts Pinterest SEO metadata, deduplicates repeated assets, and sends approved pins into a review and scheduling flow.
+Listing promotion involves repeated asset selection, SEO fields, board choices and scheduling. Image pins and video pins also need different delivery paths.
 
 ## Workflow
 
-1. Bring listing data into a dashboard.
-2. Prepare or select the best product image for Pinterest.
-3. Generate title, description, alt text, keywords, board suggestions, and posting notes.
-4. Check for duplicate or repeated assets.
-5. Let a human review and approve.
-6. Send approved pins to Pinterest directly or through an automation bridge.
+1. Import listings through Etsy or a CSV, preserving image and video context separately.
+2. Exclude unusable images and prepare Pinterest-sized assets, checking duplicates.
+3. Draft listing-specific titles, descriptions, keywords, boards and alt text.
+4. Review the drafts and use explicit batch controls.
+5. Re-host approved images before scheduling image pins through the posting path.
+6. Prepare video assets and metadata in a separate manual upload queue.
+7. Export the video queue and track which items have been posted.
 
-## Outcome
+The public walkthrough demonstrates CSV import, stop and rollback controls, image scheduling and the manual video queue. Video files do not enter the image-posting webhook.
 
-The workflow changes daily manual cross-posting into a short review step. Pinterest output becomes more consistent while the human operator still controls what gets published.
+## What changes
 
-Public website outcome: daily cross-posting reduced from roughly 60 minutes to a short review flow.
+The operator can review repeatable preparation steps in one workspace. Separate media paths make the handoff clear: approved images can be scheduled, while video pins remain under manual upload control.
 
-## What Can Be Adapted For Clients
+## Adaptable patterns
 
-- Marketplace-to-social promotion workflows.
-- Product SEO metadata generation.
-- Pinterest, Instagram, or catalog posting pipelines.
-- Review queues for ecommerce teams that want AI support without auto-publishing blindly.
+Marketplace-to-social preparation, batch metadata, duplicate checks, review queues and separate delivery paths by media type.
 
-## Safety Boundary
+## Evidence and boundaries
 
-This public case study excludes source code, private prompts, shop data, listing exports, API tokens, webhook URLs, database structure, logs, and any production scheduling configuration.
+The linked website case study and guided demo are the public evidence. This breakdown makes no guaranteed time-saving claim. Production data, shop exports, prompts, credentials and implementation source stay private.
