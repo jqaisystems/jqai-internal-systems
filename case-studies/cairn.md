@@ -1,6 +1,12 @@
 # Cairn: SEO audits and four-week checkpoints
 
-Public service breakdown, based on the published Cairn website. Reviewed 28 October 2026.
+Public service breakdown, based on the published Cairn website. Reviewed 29 October 2026.
+
+| At a glance | Details |
+|---|---|
+| Role | Service identity, website design and build, and explanatory film |
+| Status | Live service website with public method and example report |
+| Evidence | Published workflow, example report and dated observations from my own site |
 
 [Explore Cairn](https://www.ai.joaoqueiros.com/cairn) · [Watch the film](https://www.ai.joaoqueiros.com/cairn/media/cairn-film.mp4) · [Remix the creative film](https://github.com/jqaisystems/visions-recipes/tree/main/recipes/r24-cairn)
 

@@ -1,6 +1,12 @@
 # Scrollwork: brand-led websites
 
-Public portfolio breakdown, based on the published Scrollwork website. Reviewed 28 October 2026.
+Public portfolio breakdown, based on the published Scrollwork website. Reviewed 29 October 2026.
+
+| At a glance | Details |
+|---|---|
+| Role | Brand identity, website design and development for Scrollwork |
+| Status | Live service website and public portfolio |
+| Evidence | Working website, recorded interaction, film and credited project examples |
 
 [Explore Scrollwork](https://www.ai.joaoqueiros.com/scrollwork) · [Watch the film](https://www.ai.joaoqueiros.com/scrollwork/media/scrollwork-film.mp4) · [Remix the creative film](https://github.com/jqaisystems/visions-recipes/tree/main/recipes/r23-scrollwork)
 

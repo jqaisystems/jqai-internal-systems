@@ -1,10 +1,20 @@
 # Selected work / Case studies
 
-Brand-led websites, SEO checkpoints and AI systems by João Queirós. Explore the problem, approach, working examples and what can be adapted.
+Brand identities, websites, SEO checkpoints and AI systems by João Queirós. Explore the problem, approach, working examples and what can be adapted.
 
 [Explore the demos](https://github.com/jqaisystems/jqai-public-demos) · [Full systems library](https://www.ai.joaoqueiros.com/systems) · [Discuss a project](https://www.ai.joaoqueiros.com/contact)
 
-These are public breakdowns of internal systems and planning examples. Each page explains its status and boundaries.
+Selected client design work, live services, documented systems and planning examples. Each case explains my role, its status and the evidence you can inspect.
+
+## Brand identity
+
+### Agent Inc.
+
+A real estate identity carried through stationery, property brochures, signage and editorial work.
+
+<a href="case-studies/agent-inc-brand-identity.md"><img src="assets/showcase/agent-inc-brand-identity.webp" alt="Agent Inc. stationery and email signature showing a consistent black-and-white brand identity" width="640"></a>
+
+[Read the case study](case-studies/agent-inc-brand-identity.md) · [View the full branding project](https://www.joaoqueiros.com/portfolio-agent-inc-real-estate-branding.html)
 
 ## Websites and search
 
@@ -49,8 +59,9 @@ Run indexing checks, guard sitemaps and make search decisions against dated chec
 
 ## All case studies
 
-| Project | Workflow |
+| Project | Focus |
 |---|---|
+| [Agent Inc.](case-studies/agent-inc-brand-identity.md) | Real estate brand identity and graphic applications |
 | [Scrollwork](case-studies/scrollwork.md) | Brand-led website design and development |
 | [Cairn](case-studies/cairn.md) | Search audits and four-week decisions |
 | [Etsy to Pinterest](case-studies/etsy-to-pinterest-pipeline.md) | Image-pin scheduling and a separate video-pin queue |
@@ -71,8 +82,8 @@ The [Client Intake blueprint](blueprints/client-intake-automation/) contains fic
 <details>
 <summary>What the public case studies contain</summary>
 
-Problems, workflow explanations, review points and publicly documented outcomes. Private source, prompts, credentials, client data, logs and deployment configuration are excluded. Film previews are illustrative explanations, not screenshots of a private live system.
+Design decisions, workflow explanations, review points and publicly documented outcomes. Private source, prompts, credentials, client data, logs and deployment configuration are excluded. Film previews are illustrative explanations, not screenshots of a private live system.
 
 </details>
 
-[Discuss a similar system](https://www.ai.joaoqueiros.com/contact) · [JQ AI SYSTEMS](https://www.ai.joaoqueiros.com)
+[Discuss a project](https://www.ai.joaoqueiros.com/contact) · [JQ AI SYSTEMS](https://www.ai.joaoqueiros.com)
