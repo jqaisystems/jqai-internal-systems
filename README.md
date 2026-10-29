@@ -1,10 +1,24 @@
-# JQ AI SYSTEMS / Case Studies
+# Selected work / Case studies
 
-How I turn repetitive studio work into useful AI systems: the problem, the workflow, the review points and what can be adapted.
+Brand-led websites, SEO checkpoints and AI systems by João Queirós. Explore the problem, approach, working examples and what can be adapted.
 
 [Explore the demos](https://github.com/jqaisystems/jqai-public-demos) · [Full systems library](https://www.ai.joaoqueiros.com/systems) · [Discuss a project](https://www.ai.joaoqueiros.com/contact)
 
 These are public breakdowns of internal systems and planning examples. Each page explains its status and boundaries.
+
+## Websites and search
+
+### Scrollwork
+
+Brand design and website development in one practice, with scroll-driven examples of actual work.
+
+[Read the breakdown](case-studies/scrollwork.md) · [Explore the website](https://www.ai.joaoqueiros.com/scrollwork) · [View the interaction preview](assets/showcase/scrollwork-preview.gif)
+
+### Cairn
+
+SEO audits and four-week checkpoints, connecting evidence to a written decision.
+
+[Read the breakdown](case-studies/cairn.md) · [Explore the website](https://www.ai.joaoqueiros.com/cairn) · [View the workflow preview](assets/showcase/cairn-preview.gif)
 
 ## Selected systems
 
@@ -35,8 +49,10 @@ Run indexing checks, guard sitemaps and make search decisions against dated chec
 
 ## All case studies
 
-| System | Workflow |
+| Project | Workflow |
 |---|---|
+| [Scrollwork](case-studies/scrollwork.md) | Brand-led website design and development |
+| [Cairn](case-studies/cairn.md) | Search audits and four-week decisions |
 | [Etsy to Pinterest](case-studies/etsy-to-pinterest-pipeline.md) | Image-pin scheduling and a separate video-pin queue |
 | [Adobe Stock Uploader](case-studies/adobe-stock-uploader.md) | Visual batch review and metadata validation |
 | [SEO Engine](case-studies/seo-engine.md) | Indexing, sitemap checks and dated checkpoints |
